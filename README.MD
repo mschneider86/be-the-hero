@@ -7,10 +7,10 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/mschneider86/be-the-hero.svg">
   
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mschneider86/be-the-hero">
   
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mschneider86/be-the-hero">
-
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/mschneider86/be-the-hero">
+  <img alt="Repository issues" src="https://img.shields.io/github/issues/mschneider86/be-the-hero">
+    
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
@@ -20,7 +20,7 @@
 Be The Hero is a project that aims to connect people who are willing to help NPOs.
 
 <h1 align="center">
-    <img alt="Be The Hero Web" src=".github_assets/web.gif" />
+    <img alt="Be The Hero Web" src="./github_assets/web.gif" />
 </h1>
 
 <h1 align="center">
