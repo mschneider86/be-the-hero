@@ -24,9 +24,9 @@ Be The Hero is a project that aims to connect people who are willing to help NPO
 </h1>
 
 <h1 align="center">
-    <img alt="Mobile Login Page" src="./github_assets/mobile1.jpg" width="280px" height="140px" />
-    <img alt="Mobile Incident List" src="./github_assets/mobile2.jpg" width="280px" height="140px"  />
-    <img alt="Mobile Incident Detail" src="./github_assets/mobile3.jpg" width="280px" height="140px"  />
+    <img alt="Mobile Login Page" src="./github_assets/mobile1.jpg" width="240px" height="480px" />
+    <img alt="Mobile Incident List" src="./github_assets/mobile2.jpg" width="240px" height="480px"  />
+    <img alt="Mobile Incident Detail" src="./github_assets/mobile3.jpg" width="240px" height="480px"  />
 </h1>
 
 ## :rocket: Technologies
