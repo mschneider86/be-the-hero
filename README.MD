@@ -48,64 +48,64 @@ Extras:
   - [ESLint](https://eslint.org/)
   - [Prettier](https://prettier.io/)
 
-### 🧭 Rodando o Backend
+### 🧭 Running the Backend
 
 ```bash
-# Clone este repositório
+# Clone this repository
 $ git clone https://github.com/mschneider86/be-the-hero
 
-# Acesse a pasta do projeto no terminal/cmd
+# Access the project folder on terminal/prompt
 $ cd be-the-hero
 
-# Vá para a pasta Backend
+# Go to backend folder
 $ cd backend
 
-# Instale as dependências
+# Install the dependencies
 $ npm install ou yarn add
 
-# Execute a aplicação em modo de desenvolvimento
+# Execute the application on dev mode
 $ npm run dev ou yarn dev
 
-# O servidor inciará na porta:3333 - acesse http://localhost:3333
+# The server will start on port:3333 - access it on http://localhost:3333
 ```
 
-### 🧭 Rodando o Frontend
+### 🧭 Running the Frontend
 
 ```bash
-# Clone este repositório
+# Clone this repository
 $ git clone https://github.com/mschneider86/be-the-hero
 
-# Acesse a pasta do projeto no seu terminal/cmd
+# Access the project folder on terminal/prompt
 $ cd be-the-hero
 
-# Vá para a pasta da aplicação Frontend
+# Go to frontend folder
 $ cd frontend
 
-# Instale as dependências
+# Install the dependencies
 $ npm install ou yarn add
 
-# Execute a aplicação
+# Execute the application
 $ npm start ou yarn start
 
-# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
+# The app will start on port:3000 - access it on http://localhost:3000
 ```
 
-### 🧭 Rodando o Mobile
+### 🧭 Running the Mobile
 
 ```bash
-# Clone este repositório
+# Clone this repository
 $ git clone https://github.com/mschneider86/be-the-hero
 
-# Acesse a pasta do projeto no seu terminal/cmd
+# Access the project folder on terminal/prompt
 $ cd be-the-hero
 
-# Vá para a pasta da aplicação Mobile
+# Go to Mobile folder 
 $ cd mobile
 
-# Instale as dependências
+# Install the dependencies
 $ npm install ou yarn add
 
-# Execute a aplicação
+# Start the app
 $ expo start
 
 ```
